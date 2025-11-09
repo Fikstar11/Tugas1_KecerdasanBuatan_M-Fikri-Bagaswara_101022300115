@@ -1,3 +1,4 @@
+#Muhammad Fikri Bagaswara_101022300115_EL4705_Kecerdasan Buatan Tugas 1
 import heapq   # modul bawaan Python untuk struktur data priority queue (heap), digunakan agar selalu dapat mengambil node dengan nilai f terkecil dengan efisien
 
 # Representasi Graph dengan dictionary of dictionary
